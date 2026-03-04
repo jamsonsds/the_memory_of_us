@@ -1,27 +1,19 @@
 # The Memory of Us
 
-A Next.js project using the App Router with TypeScript and Tailwind CSS.
+Premium, Apple-inspired Next.js application built with App Router, TypeScript, Tailwind CSS, and Framer Motion.
 
-## Getting started
+## Tech Stack
+
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+## Run locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## Project structure
-
-```text
-app/
-  page.tsx
-  login/page.tsx
-  memories/page.tsx
-  gallery/page.tsx
-  future/page.tsx
-  messages/page.tsx
-components/
-lib/
-styles/
-```
+Then open http://localhost:3000.
